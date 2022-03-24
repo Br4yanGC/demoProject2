@@ -2,3 +2,7 @@
 Some text  
 ## Subeheader 2
 Meaningless
+## Modification in the feature branch  
+Ok, lets try to modify this branch
+## Last modification  
+Modified
